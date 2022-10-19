@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Justin Perez</h1>
-<h3 align="center">impassioned cyber security professional & software engineer</h3>
+<h1 align="left">Hi! I'm Justin Perez</h1>
+<h3 align="left">impassioned cyber security professional & software engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/m3lotic" target="blank"><img src="https://img.shields.io/twitter/follow/m3lotic?logo=twitter&style=for-the-badge" alt="m3lotic" /></a> </p>
 
@@ -19,7 +19,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=melotic&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/melotic"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="melotic" /></a></p><br><br>
+
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melotic&show_icons=true&locale=en" alt="melotic" /></p>
