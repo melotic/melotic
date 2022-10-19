@@ -7,6 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Breaking Secure Online Tests – Hacking Respondus’ “Lockdown” Browser – Pt. 1](https://melotic.xyz/2020/03/breaking-secure-online-tests-hacking-respondus-lockdown-browser-pt-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
