@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m3lotic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m3lotic" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/justin-perez-a96433165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justin-perez-a96433165/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/justin-perez-a96433165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justin-perez-a96433165/" height="30" width="40" /></a>
 <a href="/https://melotic.xyz/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://melotic.xyz/index.xml" height="30" width="40" /></a>
 </p>
 
